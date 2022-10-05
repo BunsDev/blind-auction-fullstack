@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    
+}
+.header .ui{
+    background-color: #182a36 !important;
+    color: #fff;
+}
+
+.wallet-icon{
+    width: 60px;
+    height: 32px;
+    background-image: url("../../static/wallet.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    align-self: center;
+}
+
+.infor-account{
+    display: flex;
+    align-items: center;
+}
+
+.info-item{
+    margin-right:30px !important;
+}
+
+.info-item h4{
+    color: aqua;
+}

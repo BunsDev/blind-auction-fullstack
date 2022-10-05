@@ -1,0 +1,41 @@
+.wallet-detail{
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+
+.button-down{
+    width: 36px;
+    height: 36px;
+    display: flex !important;
+    align-items: center;
+}
+
+.wallet-detail-section{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2b4c62 !important;
+    height: 60px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.section-right{
+    display: flex;
+    align-items: center;
+}
+
+.region-content{
+    margin-top: 10px;
+}
+
+.confirm-cell{
+    display: flex;
+    align-items: center;
+}
+.confirm-cell button{
+    margin-left: 8px !important;
+}

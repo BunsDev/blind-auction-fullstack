@@ -1,0 +1,29 @@
+@import url("./baseform.css");
+.bid-form{
+    width:60%;
+    height: 60%;
+    background-color: #1f3747;
+    border-radius: 4px;
+    position: relative;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 2% 2%;
+}
+
+.b-flex{
+    display: flex !important;
+    flex-direction: row;
+}
+
+.fake-checkbox{
+    margin-top: 10px;
+}
+.fake-checkbox div:first-child{
+    font-weight: bold;
+}
+.fake-checkbox input{
+    transform: scale(1.5);
+    margin-left: 10px;
+}

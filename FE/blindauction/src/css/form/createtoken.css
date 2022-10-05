@@ -1,0 +1,13 @@
+@import url("./baseform.css");
+.create-token-form{
+    width: 80%;
+    height: 80%;
+    background-color: #1f3747;
+    border-radius: 4px;
+    position: relative;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 2% 2%;
+}
